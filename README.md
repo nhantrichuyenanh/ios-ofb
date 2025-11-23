@@ -26,4 +26,4 @@
 | Open Le Chat | Open Copilot |
 
 
-* Shortcut
+`* Shortcut`
