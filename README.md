@@ -23,7 +23,7 @@
 | Orientation | Focus |
 | Recognize music | Voice Memo |
 | Open Claude | Gemini |
-| Open Le Chat | Open Copilot |
+| Open Le Chat | Open Grok |
 
 
 `* Shortcut`
