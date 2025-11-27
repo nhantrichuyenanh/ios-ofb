@@ -2,9 +2,8 @@
 
 ## Control Center
 ### ♥
-| ㅤㅤ | ㅤㅤ |
-| :--- | :--- |
 | Airplane Mode | Cellular Data |
+| :--- | :--- |
 | VPN | Open Access Point* |
 | Bluetooth | Wi-Fi |
 | Disable bluetooth* | Disable Wi-Fi* |
@@ -14,9 +13,8 @@
 | Reduce Motion | Reduce Transparency |
 
 ### ●
-| ㅤㅤ | ㅤㅤ |
-| :--- | :--- |
 | Calculator | Translate |
+| :--- | :--- |
 | Timer | Screen Recording |
 | Flashlight | Sound Recognition |
 | Silent Mode | Low Power Mode |
