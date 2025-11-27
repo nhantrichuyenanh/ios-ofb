@@ -4,26 +4,33 @@
 ### ♥
 | ㅤㅤ | ㅤㅤ |
 | :--- | :--- |
-| Airplane Mode | Cellular data |
-| VPN | Access Point |
+| Airplane Mode | Cellular Data |
+| VPN | Open Access Point* |
 | Bluetooth | Wi-Fi |
-| Turn off bluetooth* | Turn off Wi-Fi* |
+| Disable bluetooth* | Disable Wi-Fi* |
 | AirDrop | Change Wi-Fi* |
 | Change display colors* | Brightness |
-| Reduce white point* | Volume |
-| Reduce screen motion* | Reduce transparency |
+| Reduce White Point | Volume |
+| Reduce Motion | Reduce Transparency |
 
 ### ●
 | ㅤㅤ | ㅤㅤ |
 | :--- | :--- |
 | Calculator | Translate |
-| Set timer | Screen recorder |
+| Timer | Screen Recording |
 | Flashlight | Sound Recognition |
-| Silent mode | Low power mode |
+| Silent Mode | Low Power Mode |
 | Orientation | Focus |
-| Recognize music | Voice Memo |
-| Open Claude | Gemini |
+| Recognize Music | Voice Memo |
+| Open Claude | Type prompt |
 | Open Le Chat | Open Grok |
 
 
 `* Shortcut`
+- Open Access Point: Open **prefs:root=INTERNET_TETHERING**
+- Disable Bluetooth: **Turn** Bluetooth **Off**
+- Disable Wi-Fi: **Turn** Wi-Fi **Off**
+- Change Wi-Fi:
+  - **Toggle** Wi-Fi
+  - **Toggle** Wi-Fi
+- Change display colors: **Toggle** color filters
