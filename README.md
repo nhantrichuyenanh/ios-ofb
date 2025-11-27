@@ -26,7 +26,7 @@
 | Open Le Chat | Open Grok |
 
 
-`* Shortcut`
+## * Shortcut
 - Open Access Point: Open **prefs:root=INTERNET_TETHERING**
 - Disable Bluetooth: **Turn** Bluetooth **Off**
 - Disable Wi-Fi: **Turn** Wi-Fi **Off**
