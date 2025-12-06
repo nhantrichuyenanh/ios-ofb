@@ -29,9 +29,7 @@
 - Open Access Point: Open **prefs:root=INTERNET_TETHERING**
 - Disable Bluetooth: **Turn** Bluetooth **Off**
 - Disable Wi-Fi: **Turn** Wi-Fi **Off**
-- Change Wi-Fi:
-  - **Toggle** Wi-Fi
-  - **Toggle** Wi-Fi
+- Change Wi-Fi: Open **prefs:root=WIFI**
 - Change display colors: **Toggle** color filters
 
 ### Automation
