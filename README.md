@@ -26,6 +26,8 @@
 
 ## * Shortcut
 ### Library → All Shortcuts
+>[!NOTE]
+> You don't have to necessarily create these shortcuts. You could make your own or use [ThioJoe's](https://www.youtube.com/watch?v=3gq4J2zr07s "ThioJoe"), which I find some of them useful.
 - Open Access Point: Open **prefs:root=INTERNET_TETHERING**
 - Disable Bluetooth: **Turn** Bluetooth **Off**
 - Disable Wi-Fi: **Turn** Wi-Fi **Off**
