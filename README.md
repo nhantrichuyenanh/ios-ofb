@@ -7,10 +7,98 @@
 | VPN | Open Access Point* |
 | Bluetooth | Wi-Fi |
 | Disable bluetooth* | Disable Wi-Fi* |
-| AirDrop | Change Wi-Fi* |
+| AirDrop | Maximum Capacity* |
 | Change display colors* | Brightness |
 | Reduce White Point | Volume |
 | Reduce Motion | Reduce Transparency |
+
+<table>
+  <thead>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1 - Data 1</td>
+      <td>Row 1 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 2 - Data 1</td>
+      <td>Row 2 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 3 - Data 1</td>
+      <td>Row 3 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 4 - Data 1</td>
+      <td>Row 4 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 5 - Data 1</td>
+      <td>Row 5 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 6 - Data 1</td>
+      <td>Row 6 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 7 - Data 1</td>
+      <td>Row 7 - Data 2</td>
+    </tr>
+    <tr>
+      <td>Row 8 - Data 1</td>
+      <td>Row 8 - Data 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>Row 1</td>
+      <td>Row 1</td>
+    </tr>
+    <tr>
+      <td>Row 2</td>
+      <td>Row 2</td>
+    </tr>
+    <tr>
+      <td>Row 3</td>
+      <td>Row 3</td>
+    </tr>
+    <tr>
+      <td>Row 4</td>
+      <td>Row 4</td>
+    </tr>
+    <tr>
+      <td>Row 5</td>
+      <td>Row 5</td>
+    </tr>
+
+    <!-- Row 6 -->
+    <tr>
+      <td>Row 6</td>
+      <td colspan="3">Top wide cell</td>
+    </tr>
+
+    <!-- Row 7 with split -->
+    <tr>
+      <td>Row 7</td>
+      <td>Left</td>
+      <td>Middle</td>
+      <td>Right</td>
+    </tr>
+
+    <tr>
+      <td>Row 8</td>
+      <td colspan="3">Row 8</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### ●
 | Calculator | Translate |
@@ -20,18 +108,18 @@
 | Silent Mode | Low Power Mode |
 | Orientation | Focus |
 | Recognize Music | Voice Memo |
-| Open Claude | Type prompt |
-| Open Le Chat | Open Grok |
+| Open Claude | NotebookLM |
+|  |  |
 
 
 ## * Shortcut
 ### Library → All Shortcuts
 >[!NOTE]
 > You don't have to necessarily create these shortcuts. You could make your own or use [ThioJoe's](https://www.youtube.com/watch?v=3gq4J2zr07s "ThioJoe"), which I find some of them useful.
-- Open Access Point: Open **prefs:root=INTERNET_TETHERING**
+- Open Access Point: Open **prefs:root=MOBILE_DATA_SETTINGS_ID**
 - Disable Bluetooth: **Turn** Bluetooth **Off**
 - Disable Wi-Fi: **Turn** Wi-Fi **Off**
-- Change Wi-Fi: Open **prefs:root=WIFI**
+- Maximum Capacity: Open **prefs:root=BATTERY_USAGE**
 - Change display colors: **Toggle** color filters
 
 ### Automation
