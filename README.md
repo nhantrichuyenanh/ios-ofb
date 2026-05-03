@@ -12,33 +12,6 @@
 | Reduce White Point | Volume |
 | Reduce Motion | Reduce Transparency |
 
-  <table>
-    <colgroup>
-      <col class="c1">
-      <col class="c2a">
-      <col class="c2b">
-    </colgroup>
-    <thead>
-      <tr> 
-        <th colspan="3">Header</th> 
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td colspan="3">Row 1</td></tr>
-      <tr><td colspan="3">Row 2</td></tr>
-      <tr><td colspan="3">Row 3</td></tr>
-      <tr><td colspan="3">Row 4</td></tr>
-      <tr><td colspan="3">Row 5</td></tr>
-      <tr>
-        <td rowspan="2">Col 1</td> 
-        <td rowspan="2">Col 2a</td>
-        <td rowspan="2">Col 2b</td>
-      </tr>
-      <tr>
-    </tbody>
-  </table>
-
-
 ### ●
 | Calculator | Translate |
 | :--- | :--- |
