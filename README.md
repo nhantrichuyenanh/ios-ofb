@@ -12,87 +12,31 @@
 | Reduce White Point | Volume |
 | Reduce Motion | Reduce Transparency |
 
-<table>
-  <thead>
-    <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Row 1 - Data 1</td>
-      <td>Row 1 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 2 - Data 1</td>
-      <td>Row 2 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 3 - Data 1</td>
-      <td>Row 3 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 4 - Data 1</td>
-      <td>Row 4 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 5 - Data 1</td>
-      <td>Row 5 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 6 - Data 1</td>
-      <td>Row 6 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 7 - Data 1</td>
-      <td>Row 7 - Data 2</td>
-    </tr>
-    <tr>
-      <td>Row 8 - Data 1</td>
-      <td>Row 8 - Data 2</td>
-    </tr>
-  </tbody>
-</table>
-
-<table border="1" cellspacing="0" cellpadding="8">
-  <tbody>
-    <tr>
-      <td>Row 1</td>
-      <td>Row 1</td>
-    </tr>
-    <tr>
-      <td>Row 2</td>
-      <td>Row 2</td>
-    </tr>
-    <tr>
-      <td>Row 3</td>
-      <td>Row 3</td>
-    </tr>
-    <tr>
-      <td>Row 4</td>
-      <td>Row 4</td>
-    </tr>
-    <tr>
-      <td>Row 5</td>
-      <td>Row 5</td>
-    </tr>
-    <tr>
-      <td>Row 6</td>
-      <td colspan="3">Top wide cell</td>
-    </tr>
-    <tr>
-      <td>Row 7</td>
-      <td>Left</td>
-      <td>Middle</td>
-      <td>Right</td>
-    </tr>
-    <tr>
-      <td>Row 8</td>
-      <td colspan="3">Row 8</td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <colgroup>
+      <col class="c1">
+      <col class="c2a">
+      <col class="c2b">
+    </colgroup>
+    <thead>
+      <tr> 
+        <th colspan="3">Header</th> 
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td colspan="3">Row 1</td></tr>
+      <tr><td colspan="3">Row 2</td></tr>
+      <tr><td colspan="3">Row 3</td></tr>
+      <tr><td colspan="3">Row 4</td></tr>
+      <tr><td colspan="3">Row 5</td></tr>
+      <tr>
+        <td rowspan="2">Col 1</td> 
+        <td rowspan="2">Col 2a</td>
+        <td rowspan="2">Col 2b</td>
+      </tr>
+      <tr>
+    </tbody>
+  </table>
 
 
 ### ●
