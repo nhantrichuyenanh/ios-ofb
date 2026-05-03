@@ -77,21 +77,16 @@
       <td>Row 5</td>
       <td>Row 5</td>
     </tr>
-
-    <!-- Row 6 -->
     <tr>
       <td>Row 6</td>
       <td colspan="3">Top wide cell</td>
     </tr>
-
-    <!-- Row 7 with split -->
     <tr>
       <td>Row 7</td>
       <td>Left</td>
       <td>Middle</td>
       <td>Right</td>
     </tr>
-
     <tr>
       <td>Row 8</td>
       <td colspan="3">Row 8</td>
