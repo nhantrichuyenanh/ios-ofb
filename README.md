@@ -21,7 +21,7 @@
 | Orientation | Focus |
 | Recognize Music | Voice Memo |
 | Open Claude | NotebookLM |
-|  |  |
+| [Empty] | [Empty] |
 
 
 ## * Shortcut
@@ -35,6 +35,10 @@
 - Change display colors: **Toggle** color filters
 
 ### Automation
+- When any alarm goes off
+  - Set **Media** volume to **100%**
+  - **Turn** Silent Mode **Off**
+  - Set **Ringtone** volume to **100%**
 - When Waking Up:
   - **Turn** White Point **Off**
   - **Turn** Reduce Motion **Off**
