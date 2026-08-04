@@ -6,9 +6,9 @@
 | :--- | :--- |
 | VPN | Open Access Point[*](#-shortcut) |
 | Bluetooth | Wi-Fi |
-| Disable bluetooth* | Disable Wi-Fi* |
-| AirDrop | Maximum Capacity* |
-| Change display colors* | Brightness |
+| Disable bluetooth[*](#-shortcut) | Disable Wi-Fi[*](#-shortcut) |
+| AirDrop | Maximum Capacity[*](#-shortcut) |
+| Change display colors[*](#-shortcut) | Brightness |
 | Reduce White Point | Volume |
 | Reduce Motion | Reduce Transparency |
 
