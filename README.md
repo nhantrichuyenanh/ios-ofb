@@ -4,7 +4,7 @@
 ### ♥
 | Airplane Mode | Cellular Data |
 | :--- | :--- |
-| VPN | Open Access Point* |
+| VPN | Open Access Point[*](#shortcut) |
 | Bluetooth | Wi-Fi |
 | Disable bluetooth* | Disable Wi-Fi* |
 | AirDrop | Maximum Capacity* |
