@@ -28,10 +28,10 @@
 ### Library → All Shortcuts
 >[!NOTE]
 > You don't have to necessarily create these shortcuts. You could make your own or use [ThioJoe's](https://www.youtube.com/watch?v=3gq4J2zr07s "ThioJoe"), which I find some of them useful.
-- Open Access Point: Open **prefs:root=MOBILE_DATA_SETTINGS_ID**
+- Open Access Point: Open `prefs:root=MOBILE_DATA_SETTINGS_ID`
 - Disable Bluetooth: **Turn** Bluetooth **Off**
 - Disable Wi-Fi: **Turn** Wi-Fi **Off**
-- Maximum Capacity: Open **prefs:root=BATTERY_USAGE**
+- Maximum Capacity: Open `prefs:root=BATTERY_USAGE`
 - Change display colors: **Toggle** color filters
 
 ### Automation
